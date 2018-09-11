@@ -1,7 +1,7 @@
 # ticket_system
 
-Clone repo:\n
-  git clone https://github.com/IordanisPaschalidis/ticket_system/new/master?readme=1\n
+Clone repo: <br />
+  git clone https://github.com/IordanisPaschalidis/ticket_system/new/master?readme=1 <br />
 Software require:
   install dep:
     brew install dep
